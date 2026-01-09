@@ -33,3 +33,4 @@
 /Users/pallavipraveen/Documents/Level-2/asignments/FiveTwoSevenEndPoints/mynewapi/obj/Debug/net9.0/mynewapi.pdb
 /Users/pallavipraveen/Documents/Level-2/asignments/FiveTwoSevenEndPoints/mynewapi/obj/Debug/net9.0/mynewapi.genruntimeconfig.cache
 /Users/pallavipraveen/Documents/Level-2/asignments/FiveTwoSevenEndPoints/mynewapi/obj/Debug/net9.0/ref/mynewapi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/FiveTwoSevenEndPoints/mynewapi/obj/Debug/net9.0/mynewapi.sourcelink.json
